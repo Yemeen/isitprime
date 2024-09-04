@@ -1,0 +1,7 @@
+/.env
+/.venv
+/__pycache__
+/create_supabase_table.py
+/quiz_results.db
+/src
+/uv.lock
